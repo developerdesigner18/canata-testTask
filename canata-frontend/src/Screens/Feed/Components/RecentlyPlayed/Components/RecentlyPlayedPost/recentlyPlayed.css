@@ -1,0 +1,87 @@
+.recent-fullPost{
+  height: 70px ;
+  margin: 20px !important;
+  width: 900px;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+.recent-box{
+  background-color: #3e346d;
+  height: 100px;
+  padding: 30px;
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+.artist-pp{
+  background-image: url(../../../../../../Assets/Feed/art5.jfif);
+    height: 80px;
+    width: 80px;
+    border-radius: 80px;
+    background-size: cover;
+    position: relative;
+    margin-top: -30px !important;
+}
+.recent-box-content{
+  height: 50px !important;
+}
+.songName{
+  color: white;
+  margin-left: -120px;
+  margin-top: -20px;
+  font-size: 16px;
+  font-family: "Courier New", "Courier New", monospace;
+}
+.writerName{
+  color: rgb(147, 148, 148);
+  font-size: 13px;
+  margin-left: -365px;
+  margin-top: -20px;
+  font-family: "Courier New", "Courier New", monospace;
+}
+.playBtn{
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border-color: rgba(255, 255, 255, 0);
+  font-size: 14px;
+  font-family: "Courier New", "Courier New", monospace;
+  margin-right: 20px;
+  height: 50px;
+  width:80px;
+  margin-top: -18px;
+  border-radius: 20px;
+}
+.playBtn:hover{
+  color: black;
+  transition-duration: 0.5s;
+}
+
+.addtoPlaylistBtn{
+  height: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 14px;
+  font-family: "Courier New", "Courier New", monospace;
+  background-color: rgba(255, 255, 255, 0.897);
+  border-radius: 20px;
+}
+
+.addtoPlaylistBtn:hover{
+  background-color: #3e346d00;
+  color: white;
+  transition-duration: 0.5s;
+}
+
+.optionsBtn{
+  color: white;
+  background-color: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+  margin-left: 10px;
+  
+}
+
+.optionsBtn:hover{
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+}

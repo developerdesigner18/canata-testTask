@@ -1,0 +1,11 @@
+.feed-navbar{
+    height:25px;
+    background-color:#110f1d00!important;
+}
+
+.navbar-name{
+    color: white !important;
+    padding-right: 10px !important;
+    
+     /* Doesn't apply cause bulma.min.css */
+}

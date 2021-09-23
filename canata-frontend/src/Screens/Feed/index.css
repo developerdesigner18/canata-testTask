@@ -1,0 +1,9 @@
+.feedbody {
+	/* background-color:#110f1d!important; */
+	background-image: url(../../Assets/Feed/feedBackground3.jfif);
+}
+
+.feed-area {
+	align-self: center !important;
+	padding-right: 30px !important;
+}

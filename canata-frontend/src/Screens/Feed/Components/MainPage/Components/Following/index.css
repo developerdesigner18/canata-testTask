@@ -1,0 +1,10 @@
+.followingSection{
+    height: 580px;
+    overflow-x: hidden!important;
+    overflow-y: auto!important;
+    border-radius: 20px ;
+}
+
+.posts{
+    overflow-y: auto!important;
+}

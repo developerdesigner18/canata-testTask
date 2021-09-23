@@ -1,0 +1,13 @@
+.Playlistposts{
+    background-color: rgba(255, 248, 220, 0) !important;
+    overflow-y: auto!important;
+    padding-bottom: 40px !important;
+    
+}
+
+.playListsSection{
+    height: 680px;
+    overflow-x: hidden!important;
+    overflow-y: auto!important;
+    margin-top: 35px;
+}

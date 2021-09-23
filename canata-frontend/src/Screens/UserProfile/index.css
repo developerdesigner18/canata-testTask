@@ -1,0 +1,31 @@
+.name {
+	font-size: 50px;
+}
+
+.column {
+	
+}
+
+#content1 {
+	margin-top: 50pt;
+	font-size: 45px;
+}
+
+#content {
+	margin-top: -10pt;
+	font-size: 25px;
+}
+
+#bio {
+	font-size: 20px;
+}
+
+#usern {
+	width : 250pt;
+	height: 250pt;
+}
+
+.overlay {
+      position: 'fixed';
+      background-color: 'rgba(255, 255, 255, 0.75)';
+    }

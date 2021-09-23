@@ -1,0 +1,16 @@
+.drawer-menu{
+    background-color: #f7f6f6 !important;
+    height: 90vh;
+}
+.message-body{
+    background-color: #fff !important;
+}
+
+
+.navtop{
+    background-image: url(../../../../Assets/Admin/sidenav.png);
+    height: 20%;
+    width: 100%;
+    margin-bottom: 10pt;
+    
+}

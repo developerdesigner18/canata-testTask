@@ -1,0 +1,28 @@
+.card{
+    width: 150vh;
+    border-radius: 0.2cm !important;
+}
+
+.card-header{
+    border-radius: 0.2cm !important;
+    background-color: whitesmoke;
+}
+
+.card-footer{
+    width:20vh;
+    display: block;
+    margin-left: auto;
+}
+
+.card-footer-item{
+    width: 20vh;   
+    background-color: rgb(214, 202, 202);
+  color: rgb(66, 56, 56);
+    
+}
+
+.topuser{
+    width:5vh;
+    height: 5vh;;
+}
+

@@ -1,0 +1,45 @@
+.fullbody{
+    background-color:#110f1db4!important;
+    /* align-self: center !important; */
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+    
+}
+
+.trendingbtn{
+    color: rgb(255, 255, 255)!important;
+    background-color: #4a4375!important;
+    border-radius: 4em 4em 0em 0em!important;
+    /* border-radius: 40px !important; */
+    border: none!important;  
+    width: 400px !important;
+}
+
+.trendingbtn:focus{
+    background-color: #ffb700!important;
+    transition-duration: 0.5s;
+}
+
+.followingbtn{
+    color: rgb(255, 255, 255)!important;
+    background-color: #4a4375!important;
+    border-radius: 4em 4em 0em 0em!important;
+    /* border-radius: 40px !important; */
+    border: none!important; 
+    width: 400px !important;
+}
+
+.followingbtn:focus{
+    background-color: #ffb700!important;
+    transition-duration: 0.5s;
+}
+
+.tf-buttons{
+    margin:0px !important;
+    padding: 0px !important;
+}
+
+.tf-button-section{
+    margin: 5px !important;
+}

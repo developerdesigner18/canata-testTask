@@ -1,0 +1,112 @@
+
+.recent-posts{
+    border-radius: 30px;
+    overflow-y: auto!important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    
+}
+
+.recentlyPlayedSection{
+    height: 480px;
+    width: 1200px;
+    overflow-x: hidden!important;
+    overflow-y: auto!important;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 248, 220, 0);
+    background-color:#110f1db4 !important; 
+}
+
+.recent-artists{
+    height: 150px;
+    background-color: rgba(100, 148, 237, 0);
+    margin-top: 50px;
+    border-radius: 50px;
+    align-content: center;
+}
+
+/* .artist1{
+    background-image: url(../../../../Assets/Feed/art1.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    position: absolute;
+    background-position: center;
+} */
+.artist2{
+    background-image: url(../../../../Assets/Feed/art4.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 33px;
+    background-size: cover;
+    
+}
+.artist3{
+    background-image: url(../../../../Assets/Feed/art5.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist4{
+    background-image: url(../../../../Assets/Feed/art6.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist5{
+    background-image: url(../../../../Assets/Feed/art7.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist6{
+    background-image: url(../../../../Assets/Feed/art8.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist7{
+    background-image: url(../../../../Assets/Feed/1.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist8{
+    background-image: url(../../../../Assets/Feed/art1.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}
+.artist9{
+    background-image: url(../../../../Assets/Feed/art3.jfif);
+    height: 120px;
+    width: 120px;
+    border-radius: 80px;
+    padding-top: 30px;
+    margin-left: 30px;
+    background-size: cover;
+}

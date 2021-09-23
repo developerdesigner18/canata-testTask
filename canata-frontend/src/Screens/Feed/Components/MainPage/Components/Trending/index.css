@@ -1,0 +1,41 @@
+.trendingSection{
+  height: 580px;
+  overflow-x: hidden!important;
+  overflow-y: auto!important;
+  border-radius: 20px;
+  margin-top: 2px !important;
+}
+
+.posts{
+  
+  overflow-y: auto!important;
+}
+
+.table{
+  width: 100% !important;
+  padding-right: 40px !important;
+  background-color: rgba(236, 236, 236, 0.808) !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(104, 104, 104); 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3a3a3a; 
+}

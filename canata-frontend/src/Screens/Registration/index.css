@@ -1,0 +1,82 @@
+.Home {
+	/* background: url(img1.jpg); */
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: rgb(126, 126, 126);
+	background: linear-gradient(115deg, rgb(8, 227, 243), 40%, rgb(76, 6, 133));
+}
+
+.login-form {
+	width: 400px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 2px;
+	background: rgba(0, 0, 0, 0.349);
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
+}
+.login-form h3 {
+	font-size: x-large;
+	margin-bottom: 10px;
+	color: silver;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.Form-Input {
+	background-color: rgba(7, 7, 7, 0.205);
+	border-width: thin;
+	color: silver;
+	border-style: none;
+	border-radius: 20px;
+	height: 37px;
+	width: 300px;
+	margin: 10px;
+	padding-left: 15px;
+}
+
+/* .Form-Input::-webkit-validation-bubble-message {
+color: rgb(216, 0, 0);
+} */
+
+.form-button {
+	color: silver;
+	font-weight: bold;
+	background-color: rgba(0, 0, 0, 0.377);
+	border-style: solid;
+	border-width: thin;
+	border-color: rgba(133, 15, 15, 0);
+	border-radius: 20px;
+	padding: 10px;
+	margin-top: 15px;
+	margin-bottom: 25px;
+	width: 100px;
+	font-size: 14px;
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.3);
+}
+
+.form-button:hover {
+	color: grey;
+	background-color: silver;
+	border-style: solid;
+	border-color: rgb(158, 158, 158);
+	cursor: pointer;
+	transition-duration: 0.5s;
+}
+
+.login-form h6 {
+	margin-top: 0px;
+	color: silver;
+}
+
+.login-form h6:hover {
+	color: whitesmoke;
+	cursor: pointer;
+}
